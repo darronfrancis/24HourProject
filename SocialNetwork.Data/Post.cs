@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace SocialNetwork.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        //has to be linked - foreign key???
-        //public User Author { get; set; }
+        //[ForeignKey("UserId")]
+        public User Author { get; set; }
     }
 }

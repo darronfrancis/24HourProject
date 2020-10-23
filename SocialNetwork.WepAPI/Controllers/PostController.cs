@@ -1,4 +1,5 @@
-﻿using SocialNetwork.Data;
+﻿using Microsoft.AspNet.Identity;
+using SocialNetwork.Data;
 using SocialNetwork.Models;
 using SocialNetwork.Services;
 using System;

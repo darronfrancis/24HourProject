@@ -13,7 +13,13 @@ namespace SocialNetwork.Services
     {
         public readonly Guid _userId;
         public readonly int _postId;
-        
+        private Guid userId;
+
+        public PostService(Guid userId)
+        {
+            this.userId = userId;
+        }
+
         public PostService(Guid userId, int postId)
         {
             _userId = userId;
@@ -24,7 +30,6 @@ namespace SocialNetwork.Services
         {
             var entity = new Post()
             {
-                //Author.Id??? = _userId,
                 Title = post.Title,
                 Text = post.Text
             };

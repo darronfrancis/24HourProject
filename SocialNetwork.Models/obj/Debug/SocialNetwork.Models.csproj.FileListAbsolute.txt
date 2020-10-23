@@ -14,3 +14,19 @@ C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwor
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CopyComplete
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.dll
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.dll.config
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\EntityFramework.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\EntityFramework.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csprojAssemblyReference.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CoreCompileInputs.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CopyComplete
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.dll
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.pdb
