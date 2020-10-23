@@ -1,0 +1,2 @@
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.WepAPI\obj\Debug\SocialNetwork.WepAPI.csprojAssemblyReference.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.WepAPI\obj\Debug\SocialNetwork.WepAPI.csproj.CoreCompileInputs.cache

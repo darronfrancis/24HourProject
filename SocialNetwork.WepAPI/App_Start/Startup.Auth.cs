@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using SocialNetwork.WepAPI.Providers;
 using SocialNetwork.WepAPI.Models;
+using SocialNetwork.Data;
 
 namespace SocialNetwork.WepAPI
 {
