@@ -17,7 +17,7 @@ namespace SocialNetwork.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        //[ForeignKey("UserId")]
+        [ForeignKey("UserId")]
         public User Author { get; set; }
     }
 }

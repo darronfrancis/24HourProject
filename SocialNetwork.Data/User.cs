@@ -11,7 +11,9 @@ namespace SocialNetwork.Data
     {
         [Key]
         public Guid UserId { get; set; }
+        [Required]
         public string Name { get; set; }
+        [Required]
         public string Email { get; set; }
     }
 }

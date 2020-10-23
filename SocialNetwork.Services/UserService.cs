@@ -16,40 +16,5 @@ namespace SocialNetwork.Services
         {
             _userId = userId;
         }
-
-/*        public bool CreateUser(CreateUser user)
-        {
-            var entity = new User()
-            {
-                Name = user.Name,
-                Email = user.Email
-            };
-
-            using (var context = new ApplicationDbContext())
-            {
-                context.Users.Add(entity);
-                return context.SaveChanges() == 1;
-            }
-        }*/
-
-        public IEnumerable<ListUser> GetUsers()
-        {
-            using (var context = new ApplicationDbContext())
-            {
-                var query =
-                    context
-                        .Users
-                        .Where(e => e != null)
-                        .Select(
-                            e =>
-                                new ListUser
-                                {
-                                    Name = e.UserName,
-                                }
-                            );
-
-                return query.ToArray();
-            }
-        }
     }
 }

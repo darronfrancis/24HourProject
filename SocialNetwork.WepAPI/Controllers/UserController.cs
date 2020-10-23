@@ -21,7 +21,7 @@ namespace SocialNetwork.WepAPI.Controllers
             return Ok(users);
         }
 
-/*        public IHttpActionResult User(CreateUser user)
+        public IHttpActionResult SNUser(CreateUser user)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -32,7 +32,7 @@ namespace SocialNetwork.WepAPI.Controllers
                 return InternalServerError();
 
             return Ok();
-        }*/
+        }
 
         private UserService CreateUserService()
         {

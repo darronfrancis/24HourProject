@@ -58,3 +58,5 @@ C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetw
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CopyComplete
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.Migrations.initialmigration.resources
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.GenerateResource.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.Migrations.initialmigration.resources
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.GenerateResource.cache
