@@ -54,9 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreateUser.cs" />
     <Compile Include="CreatePost.cs" />
-    <Compile Include="ListUser.cs" />
     <Compile Include="ListPost.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

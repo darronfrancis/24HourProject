@@ -33,18 +33,18 @@ namespace SocialNetwork.WepAPI.Controllers
 
             return Ok();
         }
+        public IHttpActionResult GetPosts()
+        {
+            PostService postService = CreatePostService();
+            var post = postService.GetPosts();
+            return Ok(post);
+        }
 
         private PostService CreatePostService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
             var postService = new PostService(userId);
             return postService;
-        }
-        public IHttpActionResult GetPosts()
-        {
-            PostService postService = CreatePostService();
-            var post = postService.GetPosts();
-            return Ok(post);
         }
     }
 }

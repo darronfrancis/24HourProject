@@ -1,5 +1,4 @@
 ﻿using SocialNetwork.Data;
-using SocialNetwork.Data;
 using SocialNetwork.Models;
 using System;
 using System.Collections.Generic;
@@ -13,16 +12,15 @@ namespace SocialNetwork.Services
     {
         public readonly Guid _userId;
         public readonly int _postId;
-        private Guid userId;
+        //private Guid userId;
 
         public PostService(Guid userId)
         {
-            this.userId = userId;
+            _userId = userId;
         }
 
-        public PostService(Guid userId, int postId)
+        public PostService(int postId)
         {
-            _userId = userId;
             _postId = postId;
         }
 
@@ -48,7 +46,7 @@ namespace SocialNetwork.Services
                 var query =
                     context
                         .Posts
-                        .Where(e => e.PostId == _postId)
+                        .Where(e => e.User.UserId == _userId)
                         .Select(
                             e =>
                                 new ListPost

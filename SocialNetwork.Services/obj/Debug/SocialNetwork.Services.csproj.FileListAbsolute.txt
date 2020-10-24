@@ -42,3 +42,25 @@ C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetw
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.csproj.CopyComplete
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Services.dll.config
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Services.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Services.pdb
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\EntityFramework.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Data.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Models.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Data.pdb
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Data.dll.config
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Models.pdb
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\SocialNetwork.Models.dll.config
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\EntityFramework.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.csproj.CopyComplete
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Services\obj\Debug\SocialNetwork.Services.pdb

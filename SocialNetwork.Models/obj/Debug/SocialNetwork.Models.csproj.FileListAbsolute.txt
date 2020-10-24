@@ -30,3 +30,18 @@ C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetw
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CopyComplete
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.dll
 C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\24 Hour Project 2\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.pdb
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.dll.config
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\SocialNetwork.Models.pdb
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\EntityFramework.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\EntityFramework.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csproj.CopyComplete
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.dll
+C:\Users\Alex\source\repos\24HourProject\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.pdb

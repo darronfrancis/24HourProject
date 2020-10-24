@@ -3,7 +3,7 @@ namespace SocialNetwork.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class initialmigration : DbMigration
+    public partial class workPlease : DbMigration
     {
         public override void Up()
         {
@@ -14,19 +14,19 @@ namespace SocialNetwork.Data.Migrations
                         PostId = c.Int(nullable: false, identity: true),
                         Title = c.String(nullable: false),
                         Text = c.String(nullable: false),
-                        Author_UserId = c.Guid(),
+                        UserId = c.Guid(nullable: false),
                     })
                 .PrimaryKey(t => t.PostId)
-                .ForeignKey("dbo.User", t => t.Author_UserId)
-                .Index(t => t.Author_UserId);
+                .ForeignKey("dbo.User", t => t.UserId, cascadeDelete: true)
+                .Index(t => t.UserId);
             
             CreateTable(
                 "dbo.User",
                 c => new
                     {
                         UserId = c.Guid(nullable: false),
-                        Name = c.String(),
-                        Email = c.String(),
+                        Name = c.String(nullable: false),
+                        Email = c.String(nullable: false),
                     })
                 .PrimaryKey(t => t.UserId);
             
@@ -108,12 +108,12 @@ namespace SocialNetwork.Data.Migrations
             DropForeignKey("dbo.IdentityUserLogin", "ApplicationUser_Id", "dbo.ApplicationUser");
             DropForeignKey("dbo.IdentityUserClaim", "ApplicationUser_Id", "dbo.ApplicationUser");
             DropForeignKey("dbo.IdentityUserRole", "IdentityRole_Id", "dbo.IdentityRole");
-            DropForeignKey("dbo.Post", "Author_UserId", "dbo.User");
+            DropForeignKey("dbo.Post", "UserId", "dbo.User");
             DropIndex("dbo.IdentityUserLogin", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserClaim", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserRole", new[] { "ApplicationUser_Id" });
             DropIndex("dbo.IdentityUserRole", new[] { "IdentityRole_Id" });
-            DropIndex("dbo.Post", new[] { "Author_UserId" });
+            DropIndex("dbo.Post", new[] { "UserId" });
             DropTable("dbo.IdentityUserLogin");
             DropTable("dbo.IdentityUserClaim");
             DropTable("dbo.ApplicationUser");
